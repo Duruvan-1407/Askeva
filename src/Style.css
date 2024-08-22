@@ -1,0 +1,164 @@
+.pic2 {
+    margin-left: 5em;
+}
+
+.pic3 {
+    margin-top: -32em;
+    margin-left: 5em;
+}
+
+.bar {
+    text-align: center;
+    margin-left: 5em;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+.login {
+    margin-left: 70px;
+    border-radius: 10px;
+    border: transparent;
+    padding: 10px 20px
+}
+
+.getapi {
+    margin-left: 10px;
+    border-radius: 10px;
+    border: transparent;
+    background: linear-gradient(90deg, rgb(8 235 75) 0%, rgba(103, 198, 43, 1) 90%);
+    color: #fff;
+    padding: 10px 20px
+}
+
+.pic4 {
+    margin-left: 5em;
+}
+
+.type {
+    font-weight: 700;
+    font-size: 45px !important;
+    line-height: 55px;
+}
+
+.pra {
+    text-align: justify;
+}
+
+.tickimg {
+    margin-left: -2em;
+}
+
+.book {
+    margin-left: -10em;
+}
+
+.demobtn {
+    border: transparent;
+    background: linear-gradient(90deg, rgb(8 235 75) 0%, rgba(103, 198, 43, 1) 90%);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: #fff;
+    font-size: larger;
+    font-weight: 500;
+}
+
+.imgs {
+    margin-inline: 10px;
+}
+
+.pic11 {
+    border: 1px groove;
+    text-align: justify;
+    word-spacing: -1.75px;
+    letter-spacing: -0.1px;
+    font-size: 1.05rem;
+    padding-bottom: 10px;
+    height: 20em;
+    padding: 2em;
+}
+
+.section-title h6{
+    margin-top: 2em;
+    text-align: start;
+    background-color: #89dc12;
+    width: 4.5em;
+    height: 2em;
+    padding: 5px 5px;
+    position: relative;
+    border-radius: 2px;
+}
+.box{
+    border: 1px groove;
+    height: 20em; 
+    text-align: start;
+    margin-left: -0.5em;
+    padding: 20px 20px;
+}
+.box p{
+    padding-top: 2em;
+}
+.p{
+    padding-top: 1.5em;
+}
+.title-1 h6{
+    font-weight: 500;
+    background: #89dc12;
+    padding: 5px 5px;
+    text-align: start;
+    width: 5.1em;
+    color: black;
+}
+.title-2{
+    color: black;
+    padding-bottom: 20px;
+    margin-bottom: 25px;
+    font-size: 38px;
+    font-weight: 600;
+    text-align: start;
+    text-transform: capitalize;
+    font-family: "Google Sans", sans-serif;
+}
+.text{
+    text-align: justify;
+    font-size: 15px;
+    font-family: "Google Sans", sans-serif;
+    color: black;
+    font-weight: 400;
+    word-spacing: -0.5px;
+}
+.text p{
+    font-family: "Google Sans" !important;
+}
+.par1{
+    text-align: justify;
+    margin-top: 2em;
+}
+.par2{
+    text-align: justify;
+    margin-top: 5px;
+}
+.par3{
+    text-align: justify;
+    margin-top: 5px;
+}
+.par-btn{
+    border: transparent;
+    background: linear-gradient(90deg, rgb(8 235 75) 0%, rgba(103, 198, 43, 1) 90%);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: #fff;
+    font-size: larger;
+    font-weight: 500;
+    margin-left: -19em;
+    margin-top: 1em;
+}
+.footer0{
+    background-color: #89dc12;
+    color: #fff;
+    margin-left: -7.5em;
+}
+.footer0 img{
+    height: 100px;
+    margin-left: -14em;
+    margin-top: 3em;
+}
